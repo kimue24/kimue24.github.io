@@ -1,8 +1,8 @@
-title:              Clean Blog
+title:              Minho Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/_site"
+baseurl:            "/"
 url:                "https://kimue24.github.io"
 
 # Social Profiles
